@@ -1,0 +1,9 @@
+E:\Text_to_Speech\Text_to_Speech\bin\Debug\Text_to_Speech.exe
+E:\Text_to_Speech\Text_to_Speech\bin\Debug\Text_to_Speech.pdb
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.Form1.resources
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.Properties.Resources.resources
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.csproj.GenerateResource.Cache
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.exe
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.pdb
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.csprojResolveAssemblyReference.cache
+E:\Text_to_Speech\Text_to_Speech\obj\x86\Debug\Text_to_Speech.Form2.resources
